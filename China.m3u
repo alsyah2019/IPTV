@@ -106,8 +106,6 @@ http://ivi.bupt.edu.cn/hls/btv7.m3u8
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
 #EXTINF:-1 group-title="地方台",北京新闻
 http://ivi.bupt.edu.cn/hls/btv9.m3u8
-#EXTINF:-1 group-title="地方台",北京体育
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv6
 #EXTINF:-1 group-title="地方台",卡酷少儿
 http://ivi.bupt.edu.cn/hls/btv10.m3u8
 #EXTINF:-1 group-title="地方台",上海纪实
