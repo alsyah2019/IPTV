@@ -97,7 +97,6 @@ http://112.50.243.8/PLTV/88888888/224/3221225845/index.m3u8
 #EXTINF:-1 group-title="卫视台",海南卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
 
-
 #EXTINF:-1 group-title="地方台",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 group-title="地方台",冬奥纪实
@@ -131,7 +130,5 @@ http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 group-title="海外台",华视高清
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 group-title="海外台",年代新闻
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 group-title="海外台",三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
