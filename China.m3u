@@ -8,7 +8,7 @@ http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-4
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-5
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
 #EXTINF:-1 group-title="中央台",CCTV-6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-7
@@ -29,7 +29,8 @@ http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-15
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-
+#EXTINF:-1 group-title="中央台",CCTV-16
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="卫视台",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
 #EXTINF:-1 group-title="卫视台",湖南卫视
@@ -105,6 +106,8 @@ http://ivi.bupt.edu.cn/hls/btv7.m3u8
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
 #EXTINF:-1 group-title="地方台",北京新闻
 http://ivi.bupt.edu.cn/hls/btv9.m3u8
+#EXTINF:-1 group-title="地方台",北京体育
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv6
 #EXTINF:-1 group-title="地方台",卡酷少儿
 http://ivi.bupt.edu.cn/hls/btv10.m3u8 
 
