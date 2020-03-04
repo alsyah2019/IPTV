@@ -137,7 +137,7 @@ http://nclive.grtn.cn/zjpd/sd/live.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="海外台",凤凰资讯
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="香港",香港卫视
+#EXTINF:-1 group-title="海外台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="海外台",中天新闻
 http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
