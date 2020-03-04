@@ -92,7 +92,7 @@ http://ivi.bupt.edu.cn/hls/gstv.m3u8
 
 #EXTINF:-1 group-title="地方台",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="地方台",北京纪实
+#EXTINF:-1 group-title="地方台",冬奥纪实
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 group-title="地方台",北京科教
 http://ivi.bupt.edu.cn/hls/btv3.m3u8
