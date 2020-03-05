@@ -153,3 +153,7 @@ http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CTVNews.m3u8
 #EXTINF:-1 group-title="海外台",三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 group-title="海外台",台视新闻
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TTVNews.m3u8
+#EXTINF:-1 group-title="海外台",台视财经
+https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
