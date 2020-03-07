@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="中央台",CCTV-4K
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-1
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-2
@@ -112,7 +110,7 @@ http://ivi.bupt.edu.cn/hls/btv7.m3u8
 http://nclive.grtn.cn/zjpd/playlist.m3u8
 #EXTINF:-1 group-title="地方台",广州少儿
 http://aplay.gztv.com/sec/shaoer.m3u8
-#EXTINF:-1 group-title="地方台",广东科教
+#EXTINF:-1 group-title="地方台",经济科教
 http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 #EXTINF:-1 group-title="地方台",广东综艺
 http://nclive.grtn.cn/4K/sd/live.m3u8
@@ -121,8 +119,6 @@ http://nclive.grtn.cn/4K/sd/live.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="海外台",凤凰资讯
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="海外台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="海外台",中天新闻
 http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 group-title="海外台",中天综合
