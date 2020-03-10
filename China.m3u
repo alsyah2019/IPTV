@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="中央台",CCTV-1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-2
@@ -21,7 +20,7 @@ http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-10
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-11
-http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-12
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-13
@@ -32,7 +31,6 @@ http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 group-title="中央台",高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-
 #EXTINF:-1 group-title="卫视台",北京卫视
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1 group-title="卫视台",湖南卫视
@@ -59,7 +57,6 @@ http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 group-title="卫视台",深圳卫视
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-
 #EXTINF:-1 group-title="地方台",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 group-title="地方台",冬奥纪实
@@ -76,36 +73,9 @@ http://ivi.bupt.edu.cn/hls/btv7.m3u8
 http://nclive.grtn.cn/zjpd/playlist.m3u8
 #EXTINF:-1 group-title="地方台",广州少儿
 http://aplay.gztv.com/sec/shaoer.m3u8
-#EXTINF:-1 group-title="地方台",经济科教
-http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 #EXTINF:-1 group-title="地方台",广东综艺
 http://nclive.grtn.cn/4K/sd/live.m3u8
-
 #EXTINF:-1 group-title="海外台",凤凰中文
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="海外台",凤凰资讯
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="海外台",中天新闻
-http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="海外台",中天综合
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="海外台",东森新闻
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-
-#EXTINF:-1 group-title="轮播台",黑帮电影
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播台",电影大片
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播台",热播影剧
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播台",抗战剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播台",家庭剧场
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播台",五星影院
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播台",周末影院
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播台",热血抗战
-http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
-#EXTINF:-1 group-title="轮播台",贺岁影片
