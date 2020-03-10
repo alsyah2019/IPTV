@@ -86,8 +86,6 @@ http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 group-title="卫视高清",海南卫视
 http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 
-#EXTINF:-1 group-title="卫视标清",西藏卫视
-http://ivi.bupt.edu.cn/hls/xztv.m3u8
 #EXTINF:-1 group-title="卫视标清",内蒙卫视
 http://ivi.bupt.edu.cn/hls/nmtv.m3u8
 #EXTINF:-1 group-title="卫视标清",青海卫视
