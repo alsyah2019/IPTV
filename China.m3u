@@ -1,98 +1,64 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="中央台",CCTV-1
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-2
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-3
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-4
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-5
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-7
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-8
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-9
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-10
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-11
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-12
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-13
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-14
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="中央台",CCTV-15
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-#EXTINF:-1 group-title="中央台",CCTV-16
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-#EXTINF:-1 group-title="中央台",CCTV-17
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 group-title="中央台",高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
 #EXTINF:-1 group-title="卫视台",北京卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1 group-title="卫视台",湖南卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 group-title="卫视台",浙江卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 group-title="卫视台",江苏卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 group-title="卫视台",东方卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 group-title="卫视台",安徽卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 group-title="卫视台",龙江卫视
-http://112.50.243.8/PLTV/88888888/224/3221225850/index.m3u8
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
 #EXTINF:-1 group-title="卫视台",辽宁卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
 #EXTINF:-1 group-title="卫视台",广东卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 group-title="卫视台",天津卫视
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 #EXTINF:-1 group-title="卫视台",湖北卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
-#EXTINF:-1 group-title="卫视台",山东卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
-#EXTINF:-1 group-title="卫视台",重庆卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
-#EXTINF:-1 group-title="卫视台",深圳卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-#EXTINF:-1 group-title="卫视台",陕西卫视
-http://112.50.243.8/PLTV/88888888/224/3221225850/index.m3u8
-#EXTINF:-1 group-title="卫视台",吉林卫视
-http://39.135.15.70:6610/PLTV/88888888/224/3221225753/1/1000.m3u8
-#EXTINF:-1 group-title="卫视台",广西卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
-#EXTINF:-1 group-title="卫视台",河北卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
-#EXTINF:-1 group-title="卫视台",内蒙卫视
-http://112.50.243.8/PLTV/88888888/224/3221225846/index.m3u8
-#EXTINF:-1 group-title="卫视台",江西卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
-#EXTINF:-1 group-title="卫视台",四川卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
-#EXTINF:-1 group-title="卫视台",新疆卫视
-http://112.50.243.8/PLTV/88888888/224/3221225852/index.m3u8
-#EXTINF:-1 group-title="卫视台",云南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225853/index.m3u8
-#EXTINF:-1 group-title="卫视台",青海卫视
-http://112.50.243.8/PLTV/88888888/224/3221225841/index.m3u8
-#EXTINF:-1 group-title="卫视台",山西卫视
-http://112.50.243.8/PLTV/88888888/224/3221225839/index.m3u8
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 group-title="卫视台",东南卫视
-http://112.50.243.8/PLTV/88888888/224/3221225833/index.m3u8
-#EXTINF:-1 group-title="卫视台",贵州卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
-#EXTINF:-1 group-title="卫视台",甘肃卫视
-http://112.50.243.8/PLTV/88888888/224/3221225845/index.m3u8
-#EXTINF:-1 group-title="卫视台",海南卫视
-http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 group-title="卫视台",深圳卫视
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
 
 #EXTINF:-1 group-title="地方台",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
@@ -143,4 +109,3 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_108
 #EXTINF:-1 group-title="轮播台",热血抗战
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
 #EXTINF:-1 group-title="轮播台",贺岁影片
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
