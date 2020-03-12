@@ -119,8 +119,6 @@ http://125.210.152.18:9090/live/DZDYHD.m3u8
 http://125.210.152.18:9090/live/JTYYHD.m3u8
 #EXTINF:-1 group-title="电影频道",龙华电影
 http://ms006.happytv.com.tw/live/pK2PLaAx0O6ouIoL/index.m3u8
-#EXTINF:-1 group-title="电影频道",黑莓电影
-http://39.135.32.143:6610/000000001000/8785669936177902664/1.m3u8?
 #EXTINF:-1 group-title="电影",峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 group-title="海外频道",欧美电影 
@@ -138,12 +136,8 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
 #EXTINF:-1 group-title="海外频道",中视高清
 http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 group-title="海外频道",CTV中视HD（ 
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 group-title="海外频道",华视高清
 http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 group-title="海外频道",华视CTS 
-http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 group-title="海外频道",中天综合
 http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 group-title="海外频道",中天新闻
