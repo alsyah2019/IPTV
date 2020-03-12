@@ -113,12 +113,6 @@ http://ivi.bupt.edu.cn/hls/btv7.m3u8
 
 #EXTINF:-1 group-title="电影频道",高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-title="电影频道",动作电影
-http://125.210.152.18:9090/live/DZDYHD.m3u8
-#EXTINF:-1 group-title="电影频道",家庭电影
-http://125.210.152.18:9090/live/JTYYHD.m3u8
-#EXTINF:-1 group-title="电影频道",峨眉电影
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 
 #EXTINF:-1 group-title="海外频道",凤凰中文
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
