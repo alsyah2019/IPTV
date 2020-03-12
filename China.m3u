@@ -111,7 +111,7 @@ http://ivi.bupt.edu.cn/hls/btv5.m3u8
 #EXTINF:-1 group-title="卫视标清",北京生活
 http://ivi.bupt.edu.cn/hls/btv7.m3u8
 
-#EXTINF:-1 group-title="央视频道",高清电影
+#EXTINF:-1 group-title="电影频道",高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="电影频道",动作电影
 http://125.210.152.18:9090/live/DZDYHD.m3u8
@@ -119,9 +119,9 @@ http://125.210.152.18:9090/live/DZDYHD.m3u8
 http://125.210.152.18:9090/live/JTYYHD.m3u8
 #EXTINF:-1 group-title="电影频道",龙华电影
 http://ms006.happytv.com.tw/live/pK2PLaAx0O6ouIoL/index.m3u8
-#EXTINF:-1 group-title="电影",峨眉电影
+#EXTINF:-1 group-title="电影频道",峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 group-title="海外频道",欧美电影 
+#EXTINF:-1 group-title="电影频道",欧美电影 
 http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 
 #EXTINF:-1 group-title="海外频道",凤凰中文
