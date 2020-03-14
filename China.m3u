@@ -108,8 +108,6 @@ http://ivi.bupt.edu.cn/hls/bttv.m3u8
 http://ivi.bupt.edu.cn/hls/btv5.m3u8
 #EXTINF:-1 group-title="卫视标清",北京生活
 http://ivi.bupt.edu.cn/hls/btv7.m3u8
-#EXTINF:-1 group-title="卫视标清",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #EXTINF:-1 group-title="电影频道",高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
