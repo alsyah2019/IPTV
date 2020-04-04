@@ -1,2 +1,2 @@
 # IPTV
-A collection of publicly available IPTV channels from China.
+A collection of publicly available High Definition IPTV channels from China.
