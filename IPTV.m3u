@@ -103,15 +103,3 @@ http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="海外频道",凤凰资讯
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="海外频道",BBCNews
-http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="海外频道",国家地理
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="海外频道",国地悠人
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="海外频道",国地野生
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="海外频道",历史频道
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:-1 group-title="海外频道",迪士尼台
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
