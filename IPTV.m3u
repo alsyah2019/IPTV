@@ -83,6 +83,8 @@ http://ivi.bupt.edu.cn/hls/gzhd.m3u8
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 group-title="卫视高清",海南卫视
 http://ivi.bupt.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1 group-title="卫视高清",河南卫视
+http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 #EXTINF:-1 group-title="电影频道",高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="纪实频道",纪实人文
