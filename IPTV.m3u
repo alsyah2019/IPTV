@@ -20,7 +20,7 @@ http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13
@@ -28,7 +28,7 @@ http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-16
 http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
