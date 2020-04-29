@@ -77,8 +77,6 @@ http://ivi.bupt.edu.cn/hls/jlhd.m3u8
 http://ivi.bupt.edu.cn/hls/gxhd.m3u8
 #EXTINF:-1 group-title="卫视高清",河北卫视
 http://ivi.bupt.edu.cn/hls/hebhd.m3u8
-#EXTINF:-1 group-title="卫视高清",贵州卫视
-http://ivi.bupt.edu.cn/hls/gzhd.m3u8
 #EXTINF:-1 group-title="卫视高清",重庆卫视
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 group-title="卫视高清",海南卫视
