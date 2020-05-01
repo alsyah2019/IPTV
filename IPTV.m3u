@@ -29,14 +29,10 @@ http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/20002
 http://liveplay-kk.rtxapp.com/live/program/live/cctvsehd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 group-title="央视频道",体育赛事
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="央视频道",英文纪实
-http://ivi.bupt.edu.cn/hls//cgtndochd.m3u
 #EXTINF:-1 group-title="卫视高清",北京卫视
 http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",北京文艺
@@ -107,5 +103,3 @@ http://qlive.fengshows.cn/1080p/PHK.flv
 http://qlive.fengshows.cn/PCC.flv
 #EXTINF:-1 group-title="海外频道",凤凰资讯
 http://qlive.fengshows.cn/PIN.flv
-#EXTINF:-1 group-title="海外频道",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
