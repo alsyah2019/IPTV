@@ -67,12 +67,12 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",深圳卫视
 http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视高清",河北卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",四川卫视
 http://ivi.bupt.edu.cn/hls/schd.m3u8
 #EXTINF:-1 group-title="卫视高清",吉林卫视
 http://ivi.bupt.edu.cn/hls/jlhd.m3u8
-#EXTINF:-1 group-title="卫视高清",河北卫视
-http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",重庆卫视
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 group-title="卫视高清",海南卫视
