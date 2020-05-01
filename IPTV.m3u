@@ -29,6 +29,8 @@ http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/20002
 http://liveplay-kk.rtxapp.com/live/program/live/cctvsehd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 group-title="央视频道",体育赛事
@@ -37,8 +39,12 @@ http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 group-title="卫视高清",北京影视
+http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 group-title="卫视高清",北京新闻
 http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 group-title="卫视高清",冬奥纪实
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 group-title="卫视高清",湖南卫视
 http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",浙江卫视
