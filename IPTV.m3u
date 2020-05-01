@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
-http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3
 http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4
@@ -12,17 +12,17 @@ http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6
 http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8
 http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9
-http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10
 http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13
 http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14
@@ -30,7 +30,7 @@ http://liveplay-kk.rtxapp.com/live/program/live/cctvsehd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
-http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 group-title="央视频道",体育赛事
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",北京卫视
