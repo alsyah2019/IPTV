@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道",CCTV-1
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4
-http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7
 http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9
 http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10
-http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
@@ -26,7 +26,7 @@ http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13
 http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14
-http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctvsehd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
@@ -34,47 +34,45 @@ http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1 group-title="央视频道",体育赛事
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",北京卫视
-http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 group-title="卫视高清",北京新闻
 http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 group-title="卫视高清",北京影视
-http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 group-title="卫视高清",湖南卫视
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",浙江卫视
-http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",江苏卫视
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",东方卫视
 http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",安徽卫视
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",江西卫视
-http://ivi.bupt.edu.cn/hls/jxhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",山东卫视
 http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",龙江卫视
-http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",辽宁卫视
-http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",广东卫视
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",天津卫视
-http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",湖北卫视
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 group-title="卫视高清",东南卫视
-http://ivi.bupt.edu.cn/hls/dnhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",深圳卫视
-http://ivi.bupt.edu.cn/hls/szhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",四川卫视
 http://ivi.bupt.edu.cn/hls/schd.m3u8
 #EXTINF:-1 group-title="卫视高清",吉林卫视
 http://ivi.bupt.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1 group-title="卫视高清",河北卫视
-http://ivi.bupt.edu.cn/hls/hebhd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",重庆卫视
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 #EXTINF:-1 group-title="卫视高清",海南卫视
@@ -87,6 +85,8 @@ http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海文广",外语频道
 http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="上海文广",五星体育
+http://liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="纪实频道",冬奥纪实
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 group-title="纪实频道",纪实人文
