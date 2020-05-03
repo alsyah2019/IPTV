@@ -94,8 +94,8 @@ http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
 #EXTINF:-1 group-title="纪实频道",纪实人文
 http://ivi.bupt.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 group-title="电影频道",高清电影
-#EXTINF:-1 group-title="教育频道",中国教育
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="教育频道",中国教育
 http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
 #EXTINF:-1 group-title="上海文广",东方影视
 http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
