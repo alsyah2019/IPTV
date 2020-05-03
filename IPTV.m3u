@@ -29,6 +29,8 @@ http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/20002
 http://liveplay-kk.rtxapp.com/live/program/live/cctvsehd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 group-title="央视频道",体育赛事
@@ -41,8 +43,6 @@ http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 group-title="卫视高清",北京新闻
 http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 group-title="卫视高清",冬奥纪实
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 group-title="卫视高清",湖南卫视
 http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视高清",浙江卫视
@@ -85,6 +85,14 @@ http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 #EXTINF:-1 group-title="卫视高清",贵州卫视
 http://ivi.bupt.edu.cn/hls/gzhd.m3u8
+#EXTINF:-1 group-title="纪实频道",金鹰纪实
+http://ivi.bupt.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 group-title="纪实频道",冬奥纪实
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 group-title="纪实频道",英文纪实
+http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
+#EXTINF:-1 group-title="纪实频道",纪实人文
+http://ivi.bupt.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 group-title="电影频道",高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="上海文广",东方影视
@@ -95,8 +103,6 @@ http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海文广",上海都市
 http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="上海文广",纪实人文
-http://liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="海外频道",凤凰香港
 http://qlive.fengshows.cn/1080p/PHK.flv
 #EXTINF:-1 group-title="海外频道",凤凰中文
