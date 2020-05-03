@@ -111,13 +111,13 @@ http://qlive.fengshows.cn/1080p/PHK.flv
 http://qlive.fengshows.cn/PCC.flv
 #EXTINF:-1 group-title="海外频道",凤凰资讯
 http://qlive.fengshows.cn/PIN.flv
-#EXTINF:-1 group-title="海外频道",Arirang TV,
+#EXTINF:-1 group-title="海外频道",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="海外频道",NHK World，
+#EXTINF:-1 group-title="海外频道",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
-#EXTINF:-1 group-title="海外频道",Al Jazeera,
+#EXTINF:-1 group-title="海外频道",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 group-title="海外频道",France 24,
+#EXTINF:-1 group-title="海外频道",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 group-title="海外频道",NewsAsia 
+#EXTINF:-1 group-title="海外频道",NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
