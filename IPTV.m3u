@@ -42,35 +42,35 @@ http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 group-title="卫视高清",北京新闻
 http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 group-title="卫视高清",湖南卫视
-http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 group-title="卫视高清",浙江卫视
-http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 group-title="卫视高清",江苏卫视
-http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 group-title="卫视高清",东方卫视
-http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 group-title="卫视高清",安徽卫视
-http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 group-title="卫视高清",江西卫视
-http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/jxhd.m3u8
 #EXTINF:-1 group-title="卫视高清",山东卫视
-http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 group-title="卫视高清",龙江卫视
-http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
 #EXTINF:-1 group-title="卫视高清",辽宁卫视
-http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
 #EXTINF:-1 group-title="卫视高清",广东卫视
-http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 group-title="卫视高清",天津卫视
-http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
 #EXTINF:-1 group-title="卫视高清",湖北卫视
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 group-title="卫视高清",东南卫视
-http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1 group-title="卫视高清",深圳卫视
-http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
 #EXTINF:-1 group-title="卫视高清",河北卫视
-http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 group-title="卫视高清",四川卫视
 http://ivi.bupt.edu.cn/hls/schd.m3u8
 #EXTINF:-1 group-title="卫视高清",吉林卫视
@@ -95,25 +95,9 @@ http://ivi.bupt.edu.cn/hls/docuchina.m3u8
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="教育频道",中国教育
 http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1 group-title="上海文广",东方影视
-http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="上海文广",新闻综合
-http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="上海文广",外语频道
-http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="上海文广",上海都市
-http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="海外频道",凤凰香港
 http://qlive.fengshows.cn/1080p/PHK.flv
 #EXTINF:-1 group-title="海外频道",凤凰中文
 http://qlive.fengshows.cn/PCC.flv
 #EXTINF:-1 group-title="海外频道",凤凰资讯
 http://qlive.fengshows.cn/PIN.flv
-#EXTINF:-1 group-title="海外频道",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="海外频道",NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
-#EXTINF:-1 group-title="海外频道",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 group-title="海外频道",News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
