@@ -49,6 +49,8 @@ http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 group-title="IPTV",东方卫视
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title="IPTV",纪实人文
+http://ivi.bupt.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 group-title="IPTV",安徽卫视
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 group-title="IPTV",龙江卫视
