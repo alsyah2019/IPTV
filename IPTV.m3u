@@ -23,8 +23,6 @@ http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-12
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 group-title="IPTV",CCTV-13
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-14
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-15
@@ -61,18 +59,10 @@ http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",东方影视
 http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",五星体育
-http://liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",第一财经
-http://liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",新闻综合
 http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",纪实人文
 http://liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",哈哈炫动
-http://liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",上海都市
-http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",安徽卫视
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 group-title="IPTV",龙江卫视
