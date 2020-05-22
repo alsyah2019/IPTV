@@ -117,5 +117,5 @@ http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 group-title="IPTV",NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="IPTV",AlJazeera
+#EXTINF:-1 group-title="IPTV",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
