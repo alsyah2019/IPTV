@@ -101,15 +101,15 @@ http://tv.sason.xyz/proxy/fh.php?id=zx
 http://tv.sason.xyz/proxy/fh.php?id=hk
 #EXTINF:-1 group-title="IPTV",中天新聞
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="IPTV",中視高清
+#EXTINF:-1 group-title="IPTV",中视高清
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 group-title="IPTV",中天綜合
 http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="IPTV",中天娛樂
+#EXTINF:-1 group-title="IPTV",中天娱乐
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 group-title="IPTV",東森新聞
+#EXTINF:-1 group-title="IPTV",东森新闻
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 group-title="IPTV",東森電影
+#EXTINF:-1 group-title="IPTV",东森电影
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 group-title="IPTV",NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
