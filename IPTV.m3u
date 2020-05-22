@@ -97,5 +97,25 @@ http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
 http://tv.sason.xyz/proxy/fh.php?id=zw
 #EXTINF:-1 group-title="IPTV",凤凰资讯 
 http://tv.sason.xyz/proxy/fh.php?id=zx
-#EXTINF:-1 group-title="IPTV",,凤凰香港 
+#EXTINF:-1 group-title="IPTV",凤凰香港 
 http://tv.sason.xyz/proxy/fh.php?id=hk
+#EXTINF:-1 group-title="IPTV",无线新闻
+http://seb.sason.top/ptv/tvb.php?id=xw
+#EXTINF:-1 group-title="IPTV",中天新聞
+http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+#EXTINF:-1 group-title="IPTV",中視高清
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 group-title="IPTV",中天綜合
+http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 group-title="IPTV",中天娛樂
+http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 group-title="IPTV",東森新聞
+http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 group-title="IPTV",東森電影
+http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 group-title="IPTV",NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="IPTV",AlJazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 group-title="IPTV",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
