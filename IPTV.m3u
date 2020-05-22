@@ -101,6 +101,8 @@ http://tv.sason.xyz/proxy/fh.php?id=zx
 http://tv.sason.xyz/proxy/fh.php?id=hk
 #EXTINF:-1 group-title="IPTV",无线新闻
 http://seb.sason.top/ptv/tvb.php?id=xw
+#EXTINF:-1 group-title="IPTV",无线财经
+http://seb.sason.top/ptv/tvb.php?id=cj
 #EXTINF:-1 group-title="IPTV",中天新聞
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 group-title="IPTV",中視高清
@@ -117,5 +119,3 @@ http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="IPTV",AlJazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 group-title="IPTV",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
