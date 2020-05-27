@@ -145,3 +145,25 @@ https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="IPTV",澳视资讯
 https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="IPTV",TVBS新闻
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 group-title="IPTV",东森财经
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="IPTV",东森新闻
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="IPTV",华视新闻
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 group-title="IPTV",民视新闻
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 group-title="IPTV",三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="IPTV",三立Live
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 group-title="IPTV",,台视新闻
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="IPTV",中视新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 group-title="IPTV",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 group-title="IPTV",寰宇新闻
+http://125.227.198.89:8026
