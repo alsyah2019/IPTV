@@ -137,14 +137,6 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
 http://seb.sason.top/ptv/tvb.php?id=xw
 #EXTINF:-1 group-title="IPTV",无线财经
 http://seb.sason.top/ptv/tvb.php?id=cj
-#EXTINF:-1 group-title="IPTV",澳视澳门
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",澳视电影
-https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",澳视体育
-https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",澳视资讯
-https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="IPTV",TVBS新闻
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 group-title="IPTV",东森新闻
