@@ -67,6 +67,8 @@ http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",哈哈炫动
 http://liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",第一财经
+http://liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",安徽卫视
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 group-title="IPTV",龙江卫视
