@@ -47,6 +47,8 @@ http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 group-title="IPTV",湖南卫视
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="IPTV",湖南都市
+http://58.20.64.92:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="IPTV",金鹰纪实
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1 group-title="IPTV",浙江卫视
@@ -67,8 +69,6 @@ http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",哈哈炫动
 http://liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",第一财经
-http://liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",安徽卫视
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 group-title="IPTV",龙江卫视
