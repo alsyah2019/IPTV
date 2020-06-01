@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:-1 group-title="IPTV",CCTV-1
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-2
-http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-3
 http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-4
-http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-5
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-6
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-7
-http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226998/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-8
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+http://118.123.60.9:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=089&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-9
-http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-10
-http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-11
 http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-12
-http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-14
-http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-15
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-17
-http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 group-title="IPTV",体育赛事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="IPTV",央视国际
