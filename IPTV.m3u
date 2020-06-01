@@ -36,7 +36,7 @@ http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 group-title="IPTV",英文纪实
 http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
 #EXTINF:-1 group-title="IPTV",北京卫视
-http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225937/1.m3u8
 #EXTINF:-1 group-title="IPTV",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 group-title="IPTV",北京影视
@@ -52,11 +52,11 @@ http://58.20.64.92:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="IPTV",金鹰纪实
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1 group-title="IPTV",浙江卫视
-http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225934/1.m3u8
 #EXTINF:-1 group-title="IPTV",江苏卫视
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226869/1.m3u8
 #EXTINF:-1 group-title="IPTV",东方卫视
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225936/1.m3u8
 #EXTINF:-1 group-title="IPTV",纪实人文
 http://ivi.bupt.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 group-title="IPTV",外语频道
@@ -70,31 +70,31 @@ http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",哈哈炫动
 http://liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",安徽卫视
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226942/1.m3u8
 #EXTINF:-1 group-title="IPTV",龙江卫视
-http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225940/1.m3u8
 #EXTINF:-1 group-title="IPTV",辽宁卫视
-http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226881/1.m3u8
 #EXTINF:-1 group-title="IPTV",深圳卫视
-http://ivi.bupt.edu.cn/hls/szhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8
 #EXTINF:-1 group-title="IPTV",广东卫视
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226946/1.m3u8
 #EXTINF:-1 group-title="IPTV",天津卫视
-http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225941/1.m3u8
 #EXTINF:-1 group-title="IPTV",湖北卫视
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8
 #EXTINF:-1 group-title="IPTV",山东卫视
-http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225943/1.m3u8
 #EXTINF:-1 group-title="IPTV",重庆卫视
-http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 group-title="IPTV",东南卫视
-http://ivi.bupt.edu.cn/hls/dnhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226877/1.m3u8
 #EXTINF:-1 group-title="IPTV",四川卫视
-http://ivi.bupt.edu.cn/hls/schd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1 group-title="IPTV",河北卫视
 http://ivi.bupt.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 group-title="IPTV",江西卫视
-http://ivi.bupt.edu.cn/hls/jxhd.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221227022/1.m3u8
 #EXTINF:-1 group-title="IPTV",河南卫视
 http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 #EXTINF:-1 group-title="IPTV",广西卫视
@@ -109,6 +109,8 @@ http://ivi.bupt.edu.cn/hls/gzhd.m3u8
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="IPTV",新疆卫视
 http://tv.boye.ml/iptv/xjtv.php?id=1
+#EXTINF:-1 group-title="IPTV",厦门卫视
+http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 group-title="IPTV",高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="IPTV",中国教育
