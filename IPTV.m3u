@@ -24,7 +24,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-12
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-13
-http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-14
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-15
