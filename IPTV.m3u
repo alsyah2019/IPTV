@@ -53,8 +53,6 @@ http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1 group-title="IPTV",湖南娱乐
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43027/2300.m3u8
-#EXTINF:-1 group-title="IPTV",湖南都市
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43028/2300.m3u8
 #EXTINF:-1 group-title="IPTV",湖南电影
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
 #EXTINF:-1 group-title="IPTV",湖南电视
@@ -85,6 +83,8 @@ http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",五星体育
 http://liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",哈哈炫动
+http://liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",安徽卫视
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 group-title="IPTV",龙江卫视
