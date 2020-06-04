@@ -134,8 +134,6 @@ http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51011/2300.m3u8
 #EXTINF:-1 group-title="IPTV",中国教育
 http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
 #EXTINF:-1 group-title="IPTV",凤凰中文
-http://tv.sason.xyz/proxy/fh.php?id=zw
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="IPTV",凤凰资讯
-http://tv.sason.xyz/proxy/fh.php?id=zx
-#EXTINF:-1 group-title="IPTV",凤凰香港
-http://tv.sason.xyz/proxy/fh.php?id=hk
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
