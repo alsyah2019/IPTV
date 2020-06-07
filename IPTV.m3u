@@ -65,6 +65,8 @@ http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/2300.m3u8
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43021/index.m3u8
 #EXTINF:-1 group-title="IPTV",湖南经视
 http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
+#EXTINF:-1 group-title="IPTV",湖南都市
+http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43028/2300.m3u8
 #EXTINF:-1 group-title="IPTV",浙江卫视
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 group-title="IPTV",江苏卫视
