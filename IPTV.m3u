@@ -7,8 +7,6 @@ http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-4
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 group-title="IPTV",CCTV-5
-http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-7
@@ -31,8 +29,6 @@ http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-17
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
-#EXTINF:-1 group-title="IPTV",CCTV-4K
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51021/index.m3u8
 #EXTINF:-1 group-title="IPTV",体育赛事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="IPTV",央视国际
@@ -109,43 +105,3 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 group-title="IPTV",凤凰资讯
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="IPTV",家庭影院
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51010/2300.m3u8
-#EXTINF:-1 group-title="IPTV",动作电影
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel51011/2300.m3u8
-#EXTINF:-1 group-title="IPTV",外语频道
-http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",东方影视 
-http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",新闻综合
-http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",上海都市
-http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",第一财经
-http://liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",五星体育
-http://liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",哈哈炫动
-http://liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",湖南娱乐
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
-#EXTINF:-1 group-title="IPTV",湖南电影
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
-#EXTINF:-1 group-title="IPTV",湖南电视
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
-#EXTINF:-1 group-title="IPTV",湖南公共
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43031/index.m3u8
-#EXTINF:-1 group-title="IPTV",湖南教育
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43021/index.m3u8
-#EXTINF:-1 group-title="IPTV",湖南经视
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
-#EXTINF:-1 group-title="IPTV",湖南都市
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
-#EXTINF:-1 group-title="IPTV",求索记录
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43051/4000.m3u8
-#EXTINF:-1 group-title="IPTV",求索生活
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43052/4000.m3u8
-#EXTINF:-1 group-title="IPTV",求索动物
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43053/4000.m3u8
-#EXTINF:-1 group-title="IPTV",求索科学
-http://58.216.6.173/sk.live.otvcloud.com/otv/skcc/live/channel43054/4000.m3u8
