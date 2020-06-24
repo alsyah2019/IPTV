@@ -33,8 +33,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-4K
 http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
-#EXTINF:-1 group-title="IPTV",体育赛事
-http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+#EXTINF:-1 group-title="IPTV",CCTV-5+
+http://140.207.241.2:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",央视国际
 http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
 #EXTINF:-1 group-title="IPTV",北京卫视
