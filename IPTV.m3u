@@ -14,7 +14,7 @@ http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-7
 http://112.50.243.8/PLTV/88888888/224/3221226998/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-8
-http://118.123.60.9:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=089&Provider_id=&Pcontent_id=index.m3u8
+http://140.207.241.2:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-9
 http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-10
@@ -57,8 +57,20 @@ http://112.50.243.8/PLTV/88888888/224/3221225934/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226869/1.m3u8
 #EXTINF:-1 group-title="IPTV",东方卫视
 http://112.50.243.8/PLTV/88888888/224/3221225936/1.m3u8
+#EXTINF:-1 group-title="IPTV",上海外语
+http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",东方影视
+http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",五星体育
+http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",第一财经
+http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",新闻综合
+http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",纪实人文
-http://ivi.bupt.edu.cn/hls/docuchina.m3u8
+http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",哈哈炫动
+,http://140.207.241.2:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",安徽卫视
 http://112.50.243.8/PLTV/88888888/224/3221226942/1.m3u8
 #EXTINF:-1 group-title="IPTV",龙江卫视
