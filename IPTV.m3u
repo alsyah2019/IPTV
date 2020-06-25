@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="IPTV",CCTV-1
-http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
+http://140.207.241.2:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-2
 http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 #EXTINF:-1 group-title="IPTV",CCTV-3
@@ -96,9 +96,9 @@ http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
 #EXTINF:-1 group-title="IPTV",江西卫视
 http://112.50.243.8/PLTV/88888888/224/3221227022/1.m3u8
 #EXTINF:-1 group-title="IPTV",河南卫视
-http://39.134.230.196:9090/39.134.213.85/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226162/index.m3u8
+http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 #EXTINF:-1 group-title="IPTV",广西卫视
-http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+http://ivi.bupt.edu.cn/hls/gxhd.m3u8
 #EXTINF:-1 group-title="IPTV",吉林卫视
 http://ivi.bupt.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1 group-title="IPTV",海南卫视
