@@ -111,8 +111,6 @@ http://live.geermurmt.com/qhws/sd/live.m3u8
 http://tv.boye.ml/iptv/xjtv.php?id=1
 #EXTINF:-1 group-title="IPTV",山西卫视
 http://218.26.208.218:9981/stream/channelid/3464833
-#EXTINF:-1 group-title="IPTV",陕西卫视
-http://zycfcdn.gdwlcloud.com:80/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 group-title="IPTV",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="IPTV",求索生活
@@ -139,3 +137,5 @@ http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 group-title="IPTV",凤凰香港
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="IPTV",第8频道
+http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
