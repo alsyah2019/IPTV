@@ -61,8 +61,6 @@ http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292403.m3u8
 http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1,东方影视
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1,五星体育
-http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1,新闻综合
 http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1,纪实人文
@@ -137,5 +135,7 @@ http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1,BBC地球
 https://watchindia.net:8443/live/69520/88479/789.ts
-#EXTINF:-1,星空电影
-https://watchindia.net:8443/live/69520/88479/2080.ts
+#EXTINF:-1,发现频道
+https://watchindia.net:8443/live/69520/88479/793.ts
+#EXTINF:-1,历史频道
+https://watchindia.net:8443/live/69520/88479/791.ts
