@@ -127,15 +127,3 @@ http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1,凤凰香港
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1,第五频道
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1,第八频道
-http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1,BBC地球
-https://watchindia.net:8443/live/69520/88479/789.ts
-#EXTINF:-1,发现频道
-https://watchindia.net:8443/live/69520/88479/793.ts
-#EXTINF:-1,NewsAsia 
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1,AlJazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
