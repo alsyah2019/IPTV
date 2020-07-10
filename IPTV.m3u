@@ -37,6 +37,8 @@ http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204503.m3u8
 #EXTINF:-1,央视国际
 http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656803.m3u8
+#EXTINF:-1,英文纪实
+http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
 #EXTINF:-1,北京卫视
 http://193.112.239.90/outlivecloud-cdn.ysp.cctv.cn/cctv/2000272103.m3u8
 #EXTINF:-1,北京文艺
