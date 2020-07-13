@@ -138,13 +138,15 @@ http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1,凤凰香港
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1,湖南经视
-http://cg3.hunancatv.cn:9090/live/HNJS_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=280
+http://cg0.hunancatv.cn:9090/live/HNJS.m3u8?ci=123
 #EXTINF:-1,湖南都市
-http://cg3.hunancatv.cn:9090/live/HNDS_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=346
+http://cg0.hunancatv.cn:9090/live/HNDS.m3u8?ci=123
 #EXTINF:-1,湖南公共
-http://cg3.hunancatv.cn:9090/live/HNGG_8000.m3u8?ci=123#http://cg6.hunancatv.cn:9090/live/HNGG_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=261
+http://cg0.hunancatv.cn:9090/live/HNGG.m3u8?ci=123
 #EXTINF:-1,湖南娱乐
-http://cg3.hunancatv.cn:9090/live/HNYL_8000.m3u8?ci=123#http://zzq12345.gearhostpreview.com/11/hunan.php?id=344
+http://cg0.hunancatv.cn:9090/live/HNYL.m3u8?ci=123
+#EXTINF:-1,湖南教育
+http://cg0.hunancatv.cn:9090/live/HNJY.m3u8?ci=123
 #EXTINF:-1,金鹰卡通
 http://cg3.hunancatv.cn:9090/live/JYKT_8000.m3u8?ci=123
 #EXTINF:-1,中天新闻
@@ -157,3 +159,5 @@ http://p06.iptv2asia.com:18888/http/005
 http://p06.iptv2asia.com:18888/http/001
 #EXTINF:-1,华視高清
 http://p06.iptv2asia.com:18888/http/009
+#EXTINF:-1,BBC新闻
+http://220.158.149.26:8182/hls/TV00000000000000000112@HHZT.m3u8
