@@ -77,10 +77,6 @@ http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1,重庆卫视
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1,纪实人文
-http://ivi.bupt.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1,金鹰纪实
-http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1,东南卫视
 http://ivi.bupt.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1,四川卫视
@@ -107,6 +103,8 @@ http://live.geermurmt.com/qhws/sd/live.m3u8
 http://tv.boye.ml/iptv/xjtv.php?id=1
 #EXTINF:-1,山西卫视
 http://218.26.208.218:9981/stream/channelid/3464833
+#EXTINF:-1,金鹰纪实
+http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1,上海外语
 http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1,东方影视
@@ -131,8 +129,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1,求索纪录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1,中国教育
-http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
 #EXTINF:-1,凤凰中文
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1,凤凰资讯
@@ -157,5 +153,5 @@ http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 http://p06.iptv2asia.com:18888/http/005
 #EXTINF:-1,台视高清
 http://p06.iptv2asia.com:18888/http/001
-#EXTINF:-1,華視高清
+#EXTINF:-1,华視高清
 http://p06.iptv2asia.com:18888/http/009
