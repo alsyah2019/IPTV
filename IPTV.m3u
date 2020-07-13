@@ -115,8 +115,6 @@ http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1,五星体育
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1,第一财经
-http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1,新闻综合
 http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1,哈哈炫动
@@ -163,5 +161,3 @@ http://p06.iptv2asia.com:18888/http/005
 http://p06.iptv2asia.com:18888/http/001
 #EXTINF:-1,华視高清
 http://p06.iptv2asia.com:18888/http/009
-#EXTINF:-1,BBC新闻
-http://220.158.149.26:8182/hls/TV00000000000000000112@HHZT.m3u8
