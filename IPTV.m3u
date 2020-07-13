@@ -153,3 +153,7 @@ http://cg3.hunancatv.cn:9090/live/JYKT_8000.m3u8?ci=123
 http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1,中天娱乐
 http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1,中视高清
+http://p06.iptv2asia.com:18888/http/005
+#EXTINF:-1,台视高清
+http://p06.iptv2asia.com:18888/http/001
