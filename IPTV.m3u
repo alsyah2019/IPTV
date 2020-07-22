@@ -24,7 +24,7 @@ http://cg0.hunancatv.cn:9090/live/CCTV-11.m3u8?ci=123
 #EXTINF:-1,CCTV-12
 http://cg0.hunancatv.cn:9090/live/CCTV12.m3u8?ci=123
 #EXTINF:-1,CCTV-13
-http://cg0.hunancatv.cn:9090/live/CCTV-13.m3u8?ci=123
+http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1,CCTV-14
 http://cg0.hunancatv.cn:9090/live/CCTV14.m3u8?ci=123
 #EXTINF:-1,CCTV-15 
