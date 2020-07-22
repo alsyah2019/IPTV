@@ -31,6 +31,8 @@ http://cg0.hunancatv.cn:9090/live/CCTV14.m3u8?ci=123
 http://cg0.hunancatv.cn:9090/live/CCTV-15.m3u8?ci=123
 #EXTINF:-1,CCTV-17
 http://cg0.hunancatv.cn:9090/live/CCTV17.m3u8?ci=123
+#EXTINF:-1,纯享 4K
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
 #EXTINF:-1,体育赛事
 http://cg0.hunancatv.cn:9090/live/CCTV5+.m3u8?ci=123
 #EXTINF:-1,高清电影
@@ -39,8 +41,6 @@ http://cg0.hunancatv.cn:9090/live/CHCGQ.m3u8?ci=123
 http://www.dszbdq.cn/play/gz0520.php?id=chcdz
 #EXTINF:-1,家庭影院
 http://www.dszbdq.cn/play/gz0520.php?id=chcjt
-#EXTINF:-1,冬奥纪实
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1,北京卫视
 http://cg0.hunancatv.cn:9090/live/BTV.m3u8?ci=123
 #EXTINF:-1,湖南卫视
