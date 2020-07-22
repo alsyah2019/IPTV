@@ -31,8 +31,10 @@ http://cg0.hunancatv.cn:9090/live/CCTV14.m3u8?ci=123
 http://cg0.hunancatv.cn:9090/live/CCTV-15.m3u8?ci=123
 #EXTINF:-1,CCTV-17
 http://cg0.hunancatv.cn:9090/live/CCTV17.m3u8?ci=123
-#EXTINF:-1,纯享 4K
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
+#EXTINF:-1,中国环球
+http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
+#EXTINF:-1,环球记录
+http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 #EXTINF:-1,体育赛事
 http://cg0.hunancatv.cn:9090/live/CCTV5+.m3u8?ci=123
 #EXTINF:-1,高清电影
@@ -129,8 +131,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 http://cg0.hunancatv.cn:9090/live/FHZW.m3u8?ci=123
 #EXTINF:-1,凤凰资讯
 http://cg0.hunancatv.cn:9090/live/FHZX.m3u8?ci=123
-#EXTINF:-1,凤凰香港
-http://tv.sason.xyz/proxy/fh.php?id=hk
 #EXTINF:-1,求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1,求索生活
