@@ -144,6 +144,10 @@ http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1,蓝光欧美
 http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1,古装剧场
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+#EXTINF:-1,抗日剧场
+http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
 #EXTINF:-1,湖南教育
 http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43021/index.m3u8 
 #EXTINF:-1,湖南经视 
@@ -158,7 +162,3 @@ http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
 http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
 #EXTINF:-1,湖南公共
 http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43031/index.m3u8
-#EXTINF:-1,无线新闻
-http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1,财经资讯
-http://tv.sason.xyz/proxy/tvb.php?id=cj
