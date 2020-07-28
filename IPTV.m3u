@@ -155,3 +155,7 @@ http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
 http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
 #EXTINF:-1,湖南公共
 http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43031/index.m3u8
+#EXTINF:-1,无线新闻
+http://tv.sason.xyz/proxy/tvb.php?id=xw
+#EXTINF:-1,财经资讯
+http://tv.sason.xyz/proxy/tvb.php?id=cj
