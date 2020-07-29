@@ -119,8 +119,6 @@ http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1,哈哈炫动
 http://140.207.241.2:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1,五星体育
-http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1,上海都市
 http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1,凤凰中文
@@ -149,3 +147,15 @@ http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
 http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43030/index.m3u8
 #EXTINF:-1,湖南公共
 http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel43031/index.m3u8
+#EXTINF:-1,蓝光欧美
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1,蓝光明星
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1,蓝光剧1
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1,蓝光剧2
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1,蓝光剧3
+http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+#EXTINF:-1,蓝光剧4
+http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
