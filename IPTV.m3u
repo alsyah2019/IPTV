@@ -56,7 +56,7 @@ http://ivi.bupt.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1,金鹰纪实
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1,湖南卫视
-http://27.36.62.163:9090/live/hunanHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
+http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 #EXTINF:-1,浙江卫视
 http://112.50.243.8/PLTV/88888888/224/3221225934/1.m3u8
 #EXTINF:-1,江苏卫视
