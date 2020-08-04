@@ -24,7 +24,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
 #EXTINF:-1,CCTV-12
 http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
 #EXTINF:-1,CCTV-13
-http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1,CCTV-14
 http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
 #EXTINF:-1,CCTV-15
@@ -56,7 +56,7 @@ http://ivi.bupt.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1,金鹰纪实
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1,湖南卫视
-http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+http://140.207.241.2:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1,浙江卫视
 http://112.50.243.8/PLTV/88888888/224/3221225934/1.m3u8
 #EXTINF:-1,江苏卫视
